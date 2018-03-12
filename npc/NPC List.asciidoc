@@ -43,7 +43,7 @@ With one ear reduced to a ragged stump, and one eye a mass of scar tissue, Ecker
 
 People on the business end of his temper have been known to whisper he is in his current line of work because no one living can put up with him.
 
-To be fair, however, he is one of the best procurers in [the city]. If you want fresh merchandise with a minimum of degradation or smell, Eckerd is the man to go to. His prices are slightly higher, but in addition to quality, Eckerd’s service provides a minimum level of complications. Someone buying from him will never have to worry about someone’s angry brother coming around muttering about desecration.
+To be fair, however, he is one of the best procurers in Lockport. If you want fresh merchandise with a minimum of degradation or smell, Eckerd is the man to go to. His prices are slightly higher, but in addition to quality, Eckerd’s service provides a minimum level of complications. Someone buying from him will never have to worry about someone’s angry brother coming around muttering about desecration.
 
 Eckerd has a reputation for thinking with his fists, because he doesn’t have anything else to think with. Still, he has several “business partners” now, that seem to hang around for more reasons than the significant physical protection he offers.
 
@@ -56,7 +56,7 @@ _(Veteran Refinery Worker)_
 
 The lifespan of Refinery workers isn’t long, in the best of circumstances. And there are almost never “best” circumstances. Granddad, at something-past-30, is one of the oldest workers still able to function on the Refinery floor. He has most of his fingers, and some of his wits, so he’s considered successful, as these things go.
 
-He says he’s been at the Goodsmith refinery as long as he can remember. Given the proximity of Leviathan blood, this could be only a handful of years, but since no one can recall a time without Granddad at the Refinery, it’s likely much longer. He has worked his way from a cog-rat to a floor supervisor, and now generally supervises the new “hires.”
+He says he’s been at the link:Locations#the-reek[Goodsmith refinery] as long as he can remember. Given the proximity of Leviathan blood, this could be only a handful of years, but since no one can recall a time without Granddad at the Refinery, it’s likely much longer. He has worked his way from a cog-rat to a floor supervisor, and now generally supervises the new “hires.”
 
 Having been there so long, he’s got an ear on anything that happens around the Reek, and his age gives him licenses to gossip. He can say things other people would be hung for, because “it’s just Granddad.” He also has a reputation as a small-scale procurer of goods. He doesn’t move above his station, or challenge any of the gangs, but for the workers in the Reek, he’s often a safe choice when they need something hard to obtain.
 
@@ -74,7 +74,7 @@ An adept practitioner of the Iruvian Sword Arts, Harker, as she is called in Aka
 
 Now she is a highly paid bodyguard, who any businessman would be lucky to have at his side. She’s even had offers to accompany ships across the Void Sea. As a gambler, though, she can’t pick a winner to save her life.
 
-Coupled with an inability to know when to walk away from a fight, this bad luck has landed her in and out of Houndsbeat so often the guards keep her cell ready. It isn’t that she isn’t good at what she does, it’s that she doesn’t know when to call enough enough.
+Coupled with an inability to know when to walk away from a fight, this bad luck has landed her in and out of link:Locations#the-reek[Houndsbeat] so often the guards keep her cell ready. It isn’t that she isn’t good at what she does, it’s that she doesn’t know when to call enough enough.
 
 == “Lady” Evangeline Vyros
 [abstract]
@@ -85,11 +85,11 @@ _(Back alley “doctor”)_
 
 Claiming to be a younger, but legitimately born, child of one of the Six Families, Lady Evangeline may have actually gone to some kind of medical school at one time, but no one believes that she’s actually a doctor. For one thing, she’s far too interested in the corpses her patients leave behind.
 
-There’s no proof she’s actually a Vyros, much less born on the right side of the sheets, but has the bearing and mannerisms of nobility, which goes a long way. Her clothes were very high quality at one time, but despite their impeccable cleanliness and meding, they are very worn. She never seems to know much of the gossip of the upper classes, but she says that’s because she has no time or interest for that twaddle. She is always aware of new developments in limb amputation and reattachment, or how to hire a quality resurrection man.
+There’s no proof she’s actually a Vyros, much less born on the right side of the sheets, but has the bearing and mannerisms of nobility, which goes a long way. Her clothes were very high quality at one time, but despite their impeccable cleanliness and mending, they are very worn. She never seems to know much of the gossip of the upper classes, but she says that’s because she has no time or interest for that twaddle. She is always aware of new developments in limb amputation and reattachment, or how to hire a quality resurrection man.
 
 Evangeline can cure people, that’s true. Often, she has a better success rate than doctors with actual credentials. However, that might be because she’s willing to try methods any respectable doctor would call madness.
 
-Still, she practices in [location], and charges less than just about anyone. And if you can’t pay, well, she’ll be glad to take your body in trade, whenever you happen to expire.
+Still, she practices in link:Locations#throwin[Throwin], and charges less than just about anyone. And if you can’t pay, well, she’ll be glad to take your body in trade, whenever you happen to expire.
 
 == Lamplighter
 [abstract]
@@ -110,7 +110,7 @@ _(Church of Ecstasy evangelist)_
 While every good person, who understands the dangers inherent in the messy collection of appetites called “soul” is a devout member of the Church, the sad fact remains that not everyone has come to understand the corruption of the spirit. Malista has made it her life’s mission to bring true enlightenment to those poor souls. She preaches in the street daily, shouting exhortations to passersby. Her fascination with demons borders on obsession, and she declares loudly that many demons live in the city, modeling perfection in their every action, if one only knows how to look closely.
 
 
-As a committed member of the Church of Ecstasy of the Flesh, it is well known that she believes in purification, until true ascension is discovered. However, she has chosen to sacrifice that chance for herself, in order to bring others to glory.
+As a committed member of the link:Factions#church-of-ecstasy-of-the-flesh[Church of Ecstasy of the Flesh], it is well known that she believes in purification, until true ascension is discovered. However, she has chosen to sacrifice that chance for herself, in order to bring others to glory.
 
 Most, even the faithful, find her to be rather unbalanced, and her preaching a nuisance rather than a salvation.
 
@@ -129,7 +129,7 @@ While many fighters are known to throw matches if it will benefit them, Marlane 
 --
 “There is very seldom any true secret.”
 --
-_(madame, The Gilded Cage)_
+_(madame, link:Locations#velvet-bridge[The Gilded Cage])_
 
 Starting her career as one of the working women of The Gilded Cage under the name “Nightingale” Nyryx became the House’s Madame when a certain cosmetic caused the death of its former owner. By all accounts, Nyryx is a reasonable employer, never taking more than 80% of her girls income, and even providing reasonable retirement once they are no longer able to draw in business.
 
@@ -139,7 +139,7 @@ It’s common knowledge Nyryx has aspirations of influence, and strives to obtai
 ____
 “That's why I love spiders. 'If at first you don't succeed, try, try, try again.”
 ____
-_(Owner, The Undertow)_
+_(Owner, link:Locations#sanctuary[The Undertow])_
 
 The Iruvian proprietor of The Undertow, a sugarhouse that is not so much exclusive as simply difficult to find, makes a show of speaking no more than pidgin Akarosi and Skovic, but he never has trouble making himself understood.
 
@@ -165,9 +165,9 @@ She’s been known to develop soft spots for the occasional child-rowdy. She cla
 --
 “A heart's a heavy burden.”
 --
-_(Walker’s lieutenant and [whatever they a ghost speaker/dealer])_
+_(link:#walker[Walker’s] lieutenant and whisper)_
 
-Before becoming one of Walker’s first investments, Tar-Shae scratched a living in the gutters of [location] doing bookwork for people. Not betting, writing. Educated by her mother, a human woman who claimed noble lineage before her disgrace, Tar-Shae could read, do mathematics, and write with a clear hand. For a time, that was enough to keep her fed and sleeping dry, even with the horns she couldn’t always keep concealed.
+Before becoming one of Walker’s first investments, Tar-Shae scratched a living in the gutters of link:Locations#west-fogcleft[West Fogcleft] doing bookwork for people. Not betting, writing. Educated by her mother, a human woman who claimed noble lineage before her disgrace, Tar-Shae could read, do mathematics, and write with a clear hand. For a time, that was enough to keep her fed and sleeping dry, even with the horns she couldn’t always keep concealed.
 It was Walker who discovered Tar-Shae also has a talent for Ghosts.
 
 Brought into the Boss’s house and allowed to cultivate it, Tar-Shae has become Walker’s right hand woman, a position which has spawned more than its fair share of envy.
@@ -178,7 +178,7 @@ Last year, she was poisoned by another one of Walker’s investments. Thanks to 
 ____
 “He was remorseless, but he lacked method.”
 ____
-_(Leach for the Champion Consortium)_
+_(Leach for the link:Factions#the-champion-congomerate[The Champion Conglomerate])_
 
 Fortunately, Sawtooth actually has training as a doctor. Unfortunately, he has weak morals and weaker bedside manner. Employed by the Champion Consortium to patch up their fighters, he generally gets everything put back on the right way ‘round, and working again, but he doesn’t believe in sissy things like pain relief or downtime.
 
@@ -192,7 +192,7 @@ _(factory worker and drug addict)_
 
 An employee of the Ajay Fabric Mill, Veldren remains upright long enough to finish a workday, before stumbling to one of his favorite sugarhouses. Maybe his addiction started as a way to dull the pain of a mangled leg, but now it’s a means and end all it’s own.
 
-He used to be employed by the Coalridge Ironworks, before being traded to the Goodsmith Refinery as a “skilled worker.” After an accident destroyed his right leg, and left him in constant pain, he was given to the Ajay Fabric Mill. The Goodsmith management likely thought they pawned off a defective employee, but he’s proven an excellent floor foreman.
+He used to be employed by the Coalridge Ironworks, before being traded to the link:Locations#the-reek[Goodsmith Refinery] as a “skilled worker.” After an accident destroyed his right leg, and left him in constant pain, he was given to the Ajay Fabric Mill. The Goodsmith management likely thought they pawned off a defective employee, but he’s proven an excellent floor foreman.
 
 He’ll take nearly anything that will alter his consciousness, but he draws a hard line at Lure. He’s never been desperate, or deprived enough to take on the pain that it promises along with the high. For now. Still, that doesn’t mean he doesn’t know how to get it.
 
@@ -205,10 +205,10 @@ While he doesn’t officially deal anything, if someone’s really hard up, he c
 --
 “Take it from me, Fate doesn't care most of the time.”
 --
-_(Boss of the Prodigals and most of Velvet Bridge)_
+_(Boss of the Prodigals and most of link:Locations#velvet#bridge[Velvet Bridge])_
 
-Walker is a tall woman, with the body of someone who devotes most of her time to hard labor. It’s hard to see her as one of the most successful doxies of [location]. But either her customers were drawn to a form of whipcord over iron, a mind that could make connections most would overlook, or some combination of both, because she moved from working the streets, to a House, to her own House in a matter of months.
+Walker is a tall woman, with the body of someone who devotes most of her time to hard labor. It’s hard to see her as one of the most successful doxies of Velvet Bridge. But either her customers were drawn to a form of whipcord over iron, a mind that could make connections most would overlook, or some combination of both, because she moved from working the streets, to a House, to her own House in a matter of months.
 
-Offering strategic planning as pillow talk, Walker armed herself with information on the majority of the players in [location], which supported her move from whore to businesswoman. She has no interest in even skirting the edges of legitimacy, and unlike many of the Bosses, she has no fronts or covers for her extra-legal actions.
+Offering strategic planning as pillow talk, Walker armed herself with information on the majority of the players in link:Locations#dallyhall[Dallyhall] which supported her move from whore to businesswoman. She has no interest in even skirting the edges of legitimacy, and unlike many of the Bosses, she has no fronts or covers for her extra-legal actions.
 
 She has a penchant for investing in people with potential, especially if that potential is belied by their physical appearance. She arranges people in gangs that should, by rights, tear each other apart due to their members sheer dissimilar natures, but somehow manage a group cohesion most other Bosses would kill to obtain.
