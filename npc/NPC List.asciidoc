@@ -5,7 +5,7 @@
 toc::[]
 
 == Adric
-_(sweeper and dog’sbody at link::Locations#velvet-bridge[The Lover’s Pride])_
+_(sweeper and dog’sbody at link:Locations#velvet-bridge[The Lover’s Pride])_
 
 The 11 year old son of one of the Ladies, Adric does odd jobs, errands, and cleaning around the place. He knows the management will keep him safe from any advances, and the patrons are aware that they’ll be admonished most sternly (and violently) if they try anything with him. Despite his rather odd upbringing, he is a relatively normal young boy.
 
