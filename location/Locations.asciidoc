@@ -1,8 +1,12 @@
 = Lockport Districts:
 :showtitle!:
-:toc:
+:toc: macro
 
 toc::[]
+
+== Map
+image::map.png[]
+
 == Dallyhall
 The pure, clean, well-lit homes of the upper classes are in this district.
 
@@ -146,7 +150,7 @@ Nestled in a curve of the Crowlin River, far up-current from the Goodsmith Refin
 * Limpfoot Dog Track
 The Gymnasium::
 (Pit fighting with the veneer of trained athletics. It’s often more deadly for the fighters to compete here than the Quarry, but the payouts are much better.)
-* The Tranquility Teahouse::
+The Tranquility Teahouse::
                 (Refined and discreet. Headquarters of the Mourner’s Guild)
 
 
