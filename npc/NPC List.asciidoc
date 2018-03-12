@@ -101,6 +101,10 @@ _(power broker)_
 Claims a distant relationship to the Irnen family. Might be less distant than he admits.
 
 == Malista
+[abstract]
+--
+“You go and find who you really are, and don't let anyone stop you.”
+--
 _(Church of Ecstasy evangelist)_
 
 While every good person, who understands the dangers inherent in the messy collection of appetites called “soul” is a devout member of the Church, the sad fact remains that not everyone has come to understand the corruption of the spirit. Malista has made it her life’s mission to bring true enlightenment to those poor souls. She preaches in the street daily, shouting exhortations to passersby. Her fascination with demons borders on obsession, and she declares loudly that many demons live in the city, modeling perfection in their every action, if one only knows how to look closely.
@@ -111,6 +115,9 @@ As a committed member of the Church of Ecstasy of the Flesh, it is well known th
 Most, even the faithful, find her to be rather unbalanced, and her preaching a nuisance rather than a salvation.
 
 == Marlane
+____
+“If I give you a hint and tell you it's a hint, it will be information.”
+____
 _(Retired pit fighter turned mentor)_
 
 No longer an active fighter, Marlane mentors up and coming combatants with a kind of gruff tough love. She wants the “kids,” as she calls those she trains, to be capable, independent fighters, who fight clean, and fight well. She knows how to sell it to the crowd, and how to lose without taking a hit to your reputation.
@@ -129,6 +136,9 @@ Starting her career as one of the working women of The Gilded Cage under the nam
 It’s common knowledge Nyryx has aspirations of influence, and strives to obtain the ear of Nobility. To this end, she often obtains pleasures for her clients that many houses will not touch. She has lines she will not cross, and genuinely tries to pair her employee’s abilities to the client’s needs. But everyone makes mistakes. There are undoubtedly many skeletons under the Cage’s floors, figuratively or literally.
 
 == Smiling Myre
+____
+“That's why I love spiders. 'If at first you don't succeed, try, try, try again.”
+____
 _(Owner, The Undertow)_
 
 The Iruvian proprietor of The Undertow, a sugarhouse that is not so much exclusive as simply difficult to find, makes a show of speaking no more than pidgin Akarosi and Skovic, but he never has trouble making himself understood.
@@ -165,6 +175,9 @@ Brought into the Boss’s house and allowed to cultivate it, Tar-Shae has become
 Last year, she was poisoned by another one of Walker’s investments. Thanks to her half-demon heritage, it didn’t have quite the desired effect, but Tar-Shae has lost the use of the right half of her body, and gained a good deal of distrust.
 
 == Sawtooth
+____
+“He was remorseless, but he lacked method.”
+____
 _(Leach for the Champion Consortium)_
 
 Fortunately, Sawtooth actually has training as a doctor. Unfortunately, he has weak morals and weaker bedside manner. Employed by the Champion Consortium to patch up their fighters, he generally gets everything put back on the right way ‘round, and working again, but he doesn’t believe in sissy things like pain relief or downtime.
@@ -172,6 +185,9 @@ Fortunately, Sawtooth actually has training as a doctor. Unfortunately, he has w
 He’s not a mad scientist, like many of the back alley leeches that really do practice medicine, but he’s not adverse to co-opting something from a fighter if it interests him. He’s paid by the Consortium, and that means he’s aligned with their agenda. It does the fighters well to remember that often the Consortium's agenda isn’t in their best interest.
 
 == Veldren
+____
+"People are strange. Usually they're much stranger than you think. Start from there and you'll never be unpleasantly surprised.”
+____
 _(factory worker and drug addict)_
 
 An employee of the Ajay Fabric Mill, Veldren remains upright long enough to finish a workday, before stumbling to one of his favorite sugarhouses. Maybe his addiction started as a way to dull the pain of a mangled leg, but now it’s a means and end all it’s own.
