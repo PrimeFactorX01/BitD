@@ -15,14 +15,16 @@ The pure, clean, well-lit homes of the upper classes are in this district.
 Once the home of Lockport’s few productive farms, Demontail had the bad luck to be down river from the Leviathan Refineries. Forty years of runoff and pollution have turn the once fertile soil into a morass of corruption and mutation. Some brave families still struggle to reclaim the ground, but most have abandoned the district.
 
 === Locations
-* Skelkallen Farm
+Skelkallen Farm::
+//
 
 
 == Dog Ribs
 A mismatched community of rickety shacks on stilts, houseboats, and floating platforms, Dog Ribs lies in the harbor, just inside the lightning wall. It’s an excellent place to find things too questionable even for Velvet Bridge. It is reached either by boat, or a long, swaying walkway, sometimes occupied by multiple “toll takers” demanding payment for passage.
 
-== Locations
-* Harbor Lord Eel Races
+=== Locations
+Harbor Lord Eel Races::
+//
 
 
 == Fogcleft
@@ -55,18 +57,24 @@ The White Cathedral::
 Filled with manufactories and processing plants of all kids, Meadowlands’ name comes from its proximity to The Reek. Compared to the land surrounding the Refinery, even the effluvia of slaughterhouses is a breath of fresh air. This district houses the majority of the heavy production in the city.
 
 === Locations
-* The White Box Factory
-* Ajay Fabric Mill
-* Penitent Prosperity Workhouse
-* Open Arms Orphanage
+The White Box Factory::
+//
+Ajay Fabric Mill::
+//
+Penitent Prosperity Workhouse::
+//
+Open Arms Orphanage::
+//
 
 
 == The Reek
 Home to the Goodsmith Leviathan Refinery, The Reek lives up to its name. No one comes here unless they have to. Unfortunately, for the many convict-employees and debt bondsman, they have to. The Refinery occupies the majority of the space, with the stacked wooden tenements of the employees built anywhere there is room.
 
 === Locations
-* Goodsmith Refinery
-* Goodsmith Displacement Home
+Goodsmith Refinery::
+//
+Goodsmith Displacement Home::
+//
  Houndsbeat::
 (Prison. Sandwiched between The Reek and the ocean)
 Bronze Spike Railyard::
@@ -103,7 +111,8 @@ The Leviathan’s Heart::
 A small district, filled entirely with governmental buildings and offices. The primary Watch house is here, as well as the City Council seat. It is named for the small, and very well tended grove of trees that has managed to survive there. It is said that the trees are kept alive by the ghosts of people sacrificed for them. But no intelligent person really believes that.
 
 === Locations
-* Harmony Grove Crematorium
+Harmony Grove Crematorium::
+//
 Imperial Yard::
                 (Main City Watch House)
 
@@ -138,7 +147,8 @@ Short Ash Street::
 Originally a small and neglected “school” for inconvenient spare children, Vyoss Institute has expanded into the preeminent university for electroplasmic studies. It grew even during the Unity War by remaining largely apart, gladly offering its discoveries to whichever side happened to be in power at a given moment. ICE scholars come from all walks of life, with as many scholarship students as fee-paying pupils, and they consider themselves apart from, and above, the majority of Lockport life.
 
 === Locations
-* The Enlightened Crematorium
+The Enlightened Crematorium::
+//
 Pyne Building::
                 (Fulmination Studies. Headquarters of the Sparkwrights)
 
@@ -147,7 +157,8 @@ Pyne Building::
 Nestled in a curve of the Crowlin River, far up-current from the Goodsmith Refinery, Waterside Park is where the rich go to shop and play. With the Opera House, several Theaters, the Avenue, a promenade of artisanal shops, as well as round the clock patrols of highly attentive Bluecoats, one can enjoy a day out and come home with their purse intact. The poor, and really, even the middle class, stand out here, and they are typically rousted with undue force.
 
 === Locations
-* Limpfoot Dog Track
+Limpfoot Dog Track::
+//
 The Gymnasium::
 (Pit fighting with the veneer of trained athletics. It’s often more deadly for the fighters to compete here than the Quarry, but the payouts are much better.)
 The Tranquility Teahouse::
