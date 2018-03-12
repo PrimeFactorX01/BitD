@@ -9,4 +9,5 @@ Welcome to the BitD wiki!
 * link:non-player-characters[NPCs]
 * link:Locations[]
 * link:logs[Session Logs]
+* link:setting[Politics and Setting]
 * link:Wiki-Style-Guide[Style Guide]

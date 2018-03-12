@@ -77,19 +77,19 @@ Optimistically named by the sailors who found it, Sanctuary Harbor is a sheltere
 
 
 === Locations
-* The Undertow
+The Undertow::
 (Lower Sanctuary, owned by Smiling Myre)
 A sugarhouse that is safe mostly because it’s difficult to find. Dug into the bluff at the very edge of the Harbor, entering requires wading through several feet of brackish water during the wrong tides, but the place itself is unexpectedly clean and dry. It consists of a central barroom, and several side rooms where many vices can be indulged with a range of privacy options.
-* The Quarry
+The Quarry::
                 (Lower Sanctuary)
                 Pit fighting with bare knuckles in the mud.
-* The Bayonet
+The Bayonet::
                 (Upper Sanctuary)
                 (A drinking den with a very bad reputation. Headquarters of the Greycoats.)
-* The Slabyard
+The Slabyard::
                 (Lower Sanctuary)
                 (A pub that only serves true Skovlanders. Headquarters of the Grinders)
-* The Leviathan’s Heart
+The Leviathan’s Heart::
                 (Yet another pub. Headquarters of the Rats)
 
 
@@ -100,7 +100,7 @@ A small district, filled entirely with governmental buildings and offices. The p
 
 === Locations
 * Harmony Grove Crematorium
-* Imperial Yard
+Imperial Yard::
                 (Main City Watch House)
 
 
@@ -108,9 +108,9 @@ A small district, filled entirely with governmental buildings and offices. The p
 The open-air markets of Throwin run ‘round the clock. When one barrow shuts down, another immediately fills its place. The market itself has a myriad of alleys and byways, each catering to a different type of product. New or used clothing, mushrooms, weaponry, poisons, all can be found in different parts of Throwin.
 
 === Locations
-* Dell Livery Yard
+Dell Livery Yard::
 (No longer home to animals. Houses almost entirely Hulls. Shockingly well defended. Headquarters for the Whips.)
-* Strassut Hill Bookshop
+Strassut Hill Bookshop::
                 (Headquarters to the Cyphers)
 
 
@@ -118,15 +118,15 @@ The open-air markets of Throwin run ‘round the clock. When one barrow shuts do
 Every city has a district where nothing is off limits. In Velvet Bridge, anything can be had, for the right price. Though immoral acts are conducted nearly openly, the district is reasonably safe. All of the various Gangs and Crews that have a presence there find it advantageous for their clients (and marks) to be able to approach without fear for their life. Yes, it’s possible to hire an assassin there, but you will likely get to and from that meeting unharmed. Unless, of course, someone’s been paid more highly to look the other way when you’re assaulted.
 
 === Locations
-* The Figment Theater
+The Figment Theater::
                 (Burlesque theater)
-* The Scarlet Cincture
+The Scarlet Cincture::
                 (An artisanal brewery and headquarters of the Children of the Half-Moon)
-* The Lover’s Pride
+The Lover’s Pride::
         (Enthusiastic affirmative consent brothel)
-* The Compass Rose
+The Compass Rose::
                 (A public house often frequented by students. Headquarters of the Mechanists.)
-* Short Ash Street
+Short Ash Street::
                 (Largely shops of luxury goods. Current headquarters of the Scribblers)
 
 
@@ -135,7 +135,7 @@ Originally a small and neglected “school” for inconvenient spare children, V
 
 === Locations
 * The Enlightened Crematorium
-* Pyne Building
+Pyne Building::
                 (Fulmination Studies. Headquarters of the Sparkwrights)
 
 
@@ -144,9 +144,9 @@ Nestled in a curve of the Crowlin River, far up-current from the Goodsmith Refin
 
 === Locations
 * Limpfoot Dog Track
-* The Gymnasium
+The Gymnasium::
 (Pit fighting with the veneer of trained athletics. It’s often more deadly for the fighters to compete here than the Quarry, but the payouts are much better.)
-* The Tranquility Teahouse
+The Tranquility Teahouse::
                 (Refined and discreet. Headquarters of the Mourner’s Guild)
 
 
