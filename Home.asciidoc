@@ -6,7 +6,7 @@ Welcome to the BitD wiki!
 ** link:Monster[]
 ** link:Moose[]
 ** link:Mouse[]
-* link:non-player-characters[NPCs]
+* link:NPC-list[Non-Player Characters]
 * link:Locations[]
 * link:logs[Session Logs]
 * link:setting[Politics and Setting]

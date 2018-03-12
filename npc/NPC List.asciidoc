@@ -1,0 +1,196 @@
+= Dramatis Personae
+:showtitle!:
+:toc: macro
+
+toc::[]
+
+== Adric
+_(sweeper and dog’sbody at The Lover’s Pride)_
+
+The 11 year old son of one of the Ladies, Adric does odd jobs, errands, and cleaning around the place. He knows the management will keep him safe from any advances, and the patrons are aware that they’ll be admonished most sternly (and violently) if they try anything with him. Despite his rather odd upbringing, he is a relatively normal young boy.
+
+== Broadwell
+_(screw at Houndsbeat)_
+
+== Carah
+_(Lady at The Lover’s Pride)_
+
+Girl next door type. Bubbly.
+
+== Count Xethe Silverblood
+[abstract]
+--
+“My shining dishonesty will be the salvation of me.”
+--
+_(Demon Lord, dubious association with Walker)_
+
+They say he’s been alive since before the Cataclysm. That he walked under the Sun. But everyone knows that isn’t possible.
+
+The fact that he was present for the founding of Doskvol is generally accepted fact, however. At the very least he has been a Someone in Society for four generations.
+
+Count Silverbood does not hide his demonic nature. If anything, with finely tailored silver suits echoing the color of his eyes, he flaunts his in-humanity. If he were less wealthy, he wouldn’t get away with it, but with the financial and social resources to destroy most of the Six Families at his pleasure, people do not so much look the other way as actively invite him into their inner circles.
+
+Being such an intimate part of the fabric of the aristocracy means that the Count can completely disregard all its mores. He is often found in [downmarket slum] in the company of people the merely wealthy couldn’t be seen spitting on. He has some sort of association with Walker, the Boss of [gang], but people know better than to look at that too closely.
+
+== Eckerd
+[abstract]
+--
+“Nobody gets praised for the right reasons.”
+--
+_(Corpse thief, former pit fighter)_
+
+With one ear reduced to a ragged stump, and one eye a mass of scar tissue, Eckerd would be formidable enough if he weren’t nearly 7 feet tall and almost as wide. Add in a generally negative disposition, and extreme sensitivity about his scars, and Eckerd is an incredibly unpleasant person all around.
+
+People on the business end of his temper have been known to whisper he is in his current line of work because no one living can put up with him.
+
+To be fair, however, he is one of the best procurers in [the city]. If you want fresh merchandise with a minimum of degradation or smell, Eckerd is the man to go to. His prices are slightly higher, but in addition to quality, Eckerd’s service provides a minimum level of complications. Someone buying from him will never have to worry about someone’s angry brother coming around muttering about desecration.
+
+Eckerd has a reputation for thinking with his fists, because he doesn’t have anything else to think with. Still, he has several “business partners” now, that seem to hang around for more reasons than the significant physical protection he offers.
+
+== Granddad
+[abstract]
+--
+“Is that all you can do in the face of tragedy? Make toast?”
+--
+_(Veteran Refinery Worker)_
+
+The lifespan of Refinery workers isn’t long, in the best of circumstances. And there are almost never “best” circumstances. Granddad, at something-past-30, is one of the oldest workers still able to function on the Refinery floor. He has most of his fingers, and some of his wits, so he’s considered successful, as these things go.
+
+He says he’s been at the Goodsmith refinery as long as he can remember. Given the proximity of Leviathan blood, this could be only a handful of years, but since no one can recall a time without Granddad at the Refinery, it’s likely much longer. He has worked his way from a cog-rat to a floor supervisor, and now generally supervises the new “hires.”
+
+Having been there so long, he’s got an ear on anything that happens around the Reek, and his age gives him licenses to gossip. He can say things other people would be hung for, because “it’s just Granddad.” He also has a reputation as a small-scale procurer of goods. He doesn’t move above his station, or challenge any of the gangs, but for the workers in the Reek, he’s often a safe choice when they need something hard to obtain.
+
+== Harker
+[abstract]
+--
+“Tantrums are seldom about the thing they appear to be about.”
+--
+_(AKA Hishma Harak-ar_ +
+_Iruvian jail bird and mercenary)_
+
+This Iruvian woman’s hair is as black as the Void Sea, her eyes as bright as the stars that shine from its depth. Unfortunately, the rest of her is bone and sinew, topped by a face like a hatchet blade. But she has an appreciation for beauty, and a taste for the finer things, including pretty men to keep her company.
+
+An adept practitioner of the Iruvian Sword Arts, Harker, as she is called in Akarosi, has skill only matched by her bad luck. As a sell-sword, she is top notch, and any businessman would be lucky to have her at his side. As a gambler, she can’t pick a winner to save her life.
+
+Coupled with an inability to know when to walk away from a fight, this bad luck and the resultant debt has landed her in and out of Houndsbeat so often the guards keep her cell ready. It isn’t that she isn’t good for what she owes, it’s what she has to do to make the payments.
+
+== “Lady” Evangeline Vyros
+[abstract]
+--
+“You have no right to make jigsaws of people.”
+--
+_(Back alley “doctor”)_
+
+Claiming to be a younger, but legitimately born, child of one of the Six Families, Lady Evangeline may have actually gone to some kind of medical school at one time, but no one believes that she’s actually a doctor. For one thing, she’s far too interested in the corpses her patients leave behind.
+
+There’s no proof she’s actually a Vyros, much less born on the right side of the sheets, but has the bearing and mannerisms of nobility, which goes a long way. Her clothes were very high quality at one time, but despite their impeccable cleanliness and meding, they are very worn. She never seems to know much of the gossip of the upper classes, but she says that’s because she has no time or interest for that twaddle. She is always aware of new developments in limb amputation and reattachment, or how to hire a quality resurrection man.
+
+Evangeline can cure people, that’s true. Often, she has a better success rate than doctors with actual credentials. However, that might be because she’s willing to try methods any respectable doctor would call madness.
+
+Still, she practices in [location], and charges less than just about anyone. And if you can’t pay, well, she’ll be glad to take your body in trade, whenever you happen to expire.
+
+== Lamplighter
+[abstract]
+--
+“All power corrupts, but we need electroplasm.”
+--
+_(power broker)_
+
+Claims a distant relationship to the Irnen family. Might be less distant than he admits.
+
+== Malista
+_(Church of Ecstasy evangelist)_
+
+While every good person, who understands the dangers inherent in the messy collection of appetites called “soul” is a devout member of the Church, the sad fact remains that not everyone has come to understand the corruption of the spirit. Malista has made it her life’s mission to bring true enlightenment to those poor souls. She preaches in the street daily, shouting exhortations to passersby. Her fascination with demons borders on obsession, and she declares loudly that many demons live in the city, modeling perfection in their every action, if one only knows how to look closely.
+
+
+As a committed member of the Church of Ecstasy of the Flesh, it is well known that she believes in purification, until true ascension is discovered. However, she has chosen to sacrifice that chance for herself, in order to bring others to glory.
+
+Most, even the faithful, find her to be rather unbalanced, and her preaching a nuisance rather than a salvation.
+
+== Marlane
+_(Retired pit fighter turned mentor)_
+
+No longer an active fighter, Marlane mentors up and coming combatants with a kind of gruff tough love. She wants the “kids,” as she calls those she trains, to be capable, independent fighters, who fight clean, and fight well. She knows how to sell it to the crowd, and how to lose without taking a hit to your reputation.
+
+While many fighters are known to throw matches if it will benefit them, Marlane won’t stand for that shit. You fight to win, every time. Despite the fact that she constantly turns out skilled, entertaining fighters, the powers that be don’t like her much, because she’s uncompromisingly unwilling to encourage her kids to take a fall when it’s “suggested” to them.
+
+== Nyryx
+[abstract]
+--
+“There is very seldom any true secret.”
+--
+_(madame, The Gilded Cage)_
+
+Starting her career as one of the working women of The Gilded Cage under the name “Nightingale” Nyryx became the House’s Madame when a certain cosmetic caused the death of its former owner. By all accounts, Nyryx is a reasonable employer, never taking more than 80% of her girls income, and even providing reasonable retirement once they are no longer able to draw in business.
+
+It’s common knowledge Nyryx has aspirations of influence, and strives to obtain the ear of Nobility. To this end, she often obtains pleasures for her clients that many houses will not touch. She has lines she will not cross, and genuinely tries to pair her employee’s abilities to the client’s needs. But everyone makes mistakes. There are undoubtedly many skeletons under the Cage’s floors, figuratively or literally.
+
+== Smiling Myre
+_(Owner, The Undertow)_
+
+The Iruvian proprietor of The Undertow, a sugarhouse that is not so much exclusive as simply difficult to find, makes a show of speaking no more than pidgin Akarosi and Skovic, but he never has trouble making himself understood.
+
+Willing and able to provide a tasting menu of illicit substances or experiences, as well as a space to enjoy them in relative safety, Smiling Myre has no apparent drive to expand his business. His rooms are always full, and mostly clean, his prices high, but reasonable. He does not advertise, but word of mouth provides new customers for those who expire as a result of their myriad addictions.
+
+He prizes his security and his anonymity, and pays well to maintain them.
+
+== Stazia
+[abstract]
+--
+“If you tell the truth the wrong way, it’s not the truth anymore. But it’s just as powerful.”
+--
+_(AKA Antistazia Gallipot, apothecary)_
+
+A big, blowzy woman, Stazia looks as though she’d be more at home as Madam to a bevy of beautiful women of negotiable affection, but her strong and efficient hands dole out remedies (and not a little snake oil) with unhesitating assurance.
+
+Sleeping above the little shop in the Silk Shore she inherited from a long-dead husband, Stazia makes no bones about her desires for financial security. She is not a healer, and she doesn’t claim to be. Yes, the salts of antimony may be effective against the Pox, but it’s unlikely the Oscillococcinum 200C does anything except drain the wallet of the purchaser, but Stazia sells both with equal fervor.
+
+She’s been known to develop soft spots for the occasional child-rowdy. She claims it is because they remind her of her own children, who are no longer with her for unspecified reasons. But the observant individual might notice that the “children” she takes under her wing are generally those with marketable talents.
+
+== Tar-Shae Salzara
+[abstract]
+--
+“A heart's a heavy burden.”
+--
+_(Walker’s lieutenant and [whatever they a ghost speaker/dealer])_
+
+Before becoming one of Walker’s first investments, Tar-Shae scratched a living in the gutters of [location] doing bookwork for people. Not betting, writing. Educated by her mother, a human woman who claimed noble lineage before her disgrace, Tar-Shae could read, do mathematics, and write with a clear hand. For a time, that was enough to keep her fed and sleeping dry, even with the horns she couldn’t always keep concealed.
+It was Walker who discovered Tar-Shae also has a talent for Ghosts.
+
+Brought into the Boss’s house and allowed to cultivate it, Tar-Shae has become Walker’s right hand woman, a position which has spawned more than its fair share of envy.
+
+Last year, she was poisoned by another one of Walker’s investments. Thanks to her half-demon heritage, it didn’t have quite the desired effect, but Tar-Shae has lost the use of the right half of her body, and gained a good deal of distrust.
+
+== Sawtooth
+_(Leach for the Champion Consortium)_
+
+Fortunately, Sawtooth actually has training as a doctor. Unfortunately, he has weak morals and weaker bedside manner. Employed by the Champion Consortium to patch up their fighters, he generally gets everything put back on the right way ‘round, and working again, but he doesn’t believe in sissy things like pain relief or downtime.
+
+He’s not a mad scientist, like many of the back alley leeches that really do practice medicine, but he’s not adverse to co-opting something from a fighter if it interests him. He’s paid by the Consortium, and that means he’s aligned with their agenda. It does the fighters well to remember that often the Consortium's agenda isn’t in their best interest.
+
+== Veldren
+_(factory worker and drug addict)_
+
+An employee of the Ajay Fabric Mill, Veldren remains upright long enough to finish a workday, before stumbling to one of his favorite sugarhouses. Maybe his addiction started as a way to dull the pain of a mangled leg, but now it’s a means and end all it’s own.
+
+He used to be employed by the Coalridge Ironworks, before being traded to the Goodsmith Refinery as a “skilled worker.” After an accident destroyed his right leg, and left him in constant pain, he was given to the Ajay Fabric Mill. The Goodsmith management likely thought they pawned off a defective employee, but he’s proven an excellent floor foreman.
+
+He’ll take nearly anything that will alter his consciousness, but he draws a hard line at Lure. He’s never been desperate, or deprived enough to take on the pain that it promises along with the high. For now. Still, that doesn’t mean he doesn’t know how to get it.
+
+Since his accident, he has a nearly preternatural focus on safe efficiency within the Mill. Even at his most hungover, he focuses on his work with an obsessive single-mindedness. He may be sick, miserable, and barely holding onto his sanity, but no machine will ever malfunction on his watch. No one will be hauled in by their hair. No one will lose a hand.
+
+While he doesn’t officially deal anything, if someone’s really hard up, he can usually get them what they need.
+
+== Walker
+[abstract]
+--
+“Take it from me, Fate doesn't care most of the time.”
+--
+_(Boss of the [gang] and [location])_
+
+Walker is a tall woman, with the body of someone who devotes most of her time to hard labor. It’s hard to see her as one of the most successful doxies of [location]. But either her customers were drawn to a form of whipcord over iron, a mind that could make connections most would overlook, or some combination of both, because she moved from working the streets, to a House, to her own House in a matter of months.
+
+Offering strategic planning as pillow talk, Walker armed herself with information on the majority of the players in [location], which supported her move from whore to businesswoman. She has no interest in even skirting the edges of legitimacy, and unlike many of the Bosses, she has no fronts or covers for her extra-legal actions.
+
+She has a penchant for investing in people with potential, especially if that potential is belied by their physical appearance. She arranges people in gangs that should, by rights, tear each other apart due to their members sheer dissimilar natures, but somehow manage a group cohesion most other Bosses would kill to obtain.
