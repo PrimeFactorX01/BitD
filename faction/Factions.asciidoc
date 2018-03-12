@@ -1,0 +1,163 @@
+= Gangs and Factions
+:showtitle!:
+:toc: macro
+
+toc::[]
+
+== The Auditors
+Though the Bluecoats will deny it, there are a few of them that seek the good of the city, and choose to enforce the spirit of the law, not the letter. This fellowship within the City Watch keeps quiet, and chooses only to act when a situation could truly benefit the population at large.
+
+	Leader:: known only as the Actuary
+	Hideout:: Imperial Yard, basement
+
+== The Broken Thumbs
+An oddly supportive network of trainers, leeches, mentors, and active fighters, the Broken Thumbs are composed of current and former Pit Fighters. Though the Champion Conglomerate officially approves of their activities, unofficially, they’ve been trying to disband them for years, because the Thumbs make fighters less dependant on the conglomerate.
+
+	Leader:: Harker
+	Headquarters:: The Ringer’s Widow, Lower Sanctuary
+
+== The Champion Conglomerate
+Owners of both the pit fighting rings, and the Limpfoot Dog Track, the Champions consider themselves to be a respectable business group, not a gang. While they might all be rich, they’re still thugs.
+
+	Leader:: Lysaro Donnar
+	Headquarters:: The Champion Building, Waterside Park
+
+== The City Watch
+(AKA: Bluecoats
+AKA: Runoff)
+The City Watch of Lockport, taking their name directly from their parent organization in Doskvol. Tasked with upholding the law, most are former Imperial soldiers, unable to return home for a variety of reasons. Generally bitter about their percieved exile, almost all have a problem with Skovlanders. While in Doskvol, “Bluecoat” is the unofficial, and sometimes derogatory name, in Lockport it is a title of respect, whereas their nickname, Runoff, reflects the citizenry’s true opinion.
+
+	Leader:: General Vond Welker
+	Hideout:: Imperial Yard, Talking Trees
+
+== Children of the Half-Moon
+Claiming to be full Iruvian, most of the Moonies are, at best, half-bloods. Wearing the clothing, and apeing the mannerism of a true Iruvian, the Moonies have a large investment in their “exoticness” than their heritage. They have a fractured territory, and seem unable to decide where to focus their attentions.
+
+	Leader:: Star
+	Hideout:: The Scarlet Cincture (bar), Velvet Bridge
+
+== Church of Ecstasy of the Flesh
+
+== Circle of Flame
+
+== City Council
+Six members from the Six Families.
+
+	Hideout:: City Hall
+
+== The Crested
+Students at the Vyoss Institute for Constructive Electroplasmetics. Identifiable by their round caps complete with color-coded tassels, no one takes student very seriously. Due to the variety of hues of their “crest,” they’ve earned the derogatory nickname of “Rainbows.” They’re victim to more infighting than outfighting, with every department convinced of their supremancy.
+
+	Leader:: Depends on who you ask.
+
+== Cyphers
+Founded by an exile from Doskvol, the Cyphers are the messenger guild of the city. Cyphers swear sacred oaths of secrecy—never revealing the contents of their messages or the identities of their clients—or so they claim.
+
+	Leader:: Keen the Eye
+	Hideout:: Strassut Hill Bookshop, Throwin
+
+== The Disapeared
+With its workforce largely composed of prisoners and the indentured, Lockport was bound to spawn a gang of the ones that got away. The Disapeared are entirely former prisoners, or those who were forced into Refinery and Manufactory work against their will. They use no names, and are known only to each other.
+
+	Leader:: Giantkiller
+	Hideout:: Unknown
+
+== The Glorious Damned
+Most gangs are out for themselves. The Glorious Damned know that there is no goodness in the world. No joy, nor love, nor light, nor certitude, nor peace, nor help for pain. Still, they can ease suffering where they see it. The Glorious Damned are neither religious nor official, but they do their best to minimize the suffering of their fellow men.
+
+	Leader:: Zamira the Golden
+	Hideout:: The Wheel of the Lady, Ivory Tower District
+
+== The Godsent of the Lady’s Ordination
+With a certain belief that all things are products of fate, and that nothing is fixed save the truth of Chance, the Ordinates are devotees of the Goddess Moirai of Luck. Their sacraments are wagers, their ritual tools dice, cards, and the wheel.
+
+	Leader:: Gamemaster Naria Whicker
+	Hideout:: Goddess’ Bones Chapel, Ivory Tower District
+
+== Greycoats
+Going from Bluecoat to a life of crime isn’t much of a drop. The Greycoats are the debatably the most vicious gang in the city, with a serious vendetta against anyone that reminds them that they couldn’t even cut it as failed soldiers.
+
+	Leader:: Captain Stev Faros
+	Hideout:: The Bayonet, Upper Sanctuary
+
+== Grinders
+Whatever they might be in Doskvol, the Grinders in Lockport are the true Skovlanders. They are committed to the nation’s freedom, and will go to any length to drive out the Imperial oppressor.
+
+	Leader:: “Bricks” Skora
+	Hideout:: The Slabyard (pub), Lower Sanctuary
+
+== Imperial Military
+Given the political situation of Lockport, there is a very large military presence. They are stationed in small garrisons all over the city, with a very large camp in the Fringe Marches.
+
+	Leader:: General Jayers
+	Headquarters:: Camp Leviathan, Fringe Marches
+
+== Leviathan Hunters
+
+== Mechanists
+Almost impossible to contact, and actually impossible to identify, the Mechanists are a network of tinkers, alchemists, and innovators who believe that the advancement of the world comes from harnessing the power of Ghosts, not shunning them, or converting them to electroplasm. They provide the Whips with the Hulls that drive their coaches, as well a variety of Mechanoids that work in the Manufactories.
+
+	Leader:: Antimony
+	Hideout:: The Compass Rose, Velvet Bridge
+
+== The Mourner’s Guild
+While the Spirit Wardens are officially responsible for the destruction of bodies before they become ghosts, some families, especially those with reputations to maintain, prefer to be more discrete. Mourners are exclusively women (or appear to be so), muffled head to toe in black, complete with heavy veiling. They will dispose of your loved one in quiet consideration in your own home. They are chaste, unwed, without families or identities of their own.
+
+	Leader:: Sister Chalk
+	Hideout:: The Tranquility Teahouse, Waterside Park
+
+== Prodigals
+A fairly recent addition to the criminal landscape of Lockport, the Prodigals have been taking over street after street in Velvet Bridge. They have no political agenda, no goal except their of wealth and self preservation. They attract people who, having been on the bottom once, have no desire to be there again. With their rapid annexation of turf, they’ve begun to be considered a threat, even by those gangs that view Velvet Bridge to be a territory too dissolute to bother with. It is, after all, a rich plum for whoever holds it.
+
+	Leader:: Walker
+	Hideout:: The Swan Club, Velvet Bridge
+
+== Scribblers
+The free press is a thing of the past in Lockport, but the news will not be silenced. The Scribblers put out a series of underground papers, using printing engines that the Bluecoats occasionally locate and destroy. But another always springs up.
+
+	Leader:: Ring Clermont
+	Hideout:: currently Short Ash street, Velvet Bridge
+
+== Railjacks
+The men and women who protect the electro-trains of the Imperium from the savage spirits of the deathlands. Until recently were part of the Military.
+
+	Leader:: Lead Pipe Ranya
+	Hideout:: Bronze Spike Railyard, the Reek
+
+== The Rats
+Dockworkers.
+
+	Leader:: Theena Comber
+	Hideout:: The Leviathan’s Heart, Lower Sanctuary
+
+== The Reconciled
+An association of spirits who have not gone feral with the passage of time.
+
+	Leader:: Milk Drinker
+	Hideout:: Unknown
+
+== Sparkwrights
+The engineers who maintain the lightning barriers. Also pioneers of new technology, often indulging in dangerous research.
+
+	Leader::
+	\\
+
+	Headquarters:: Pyne Building, Vyoss Institute for Constructive Electroplasmetics
+
+== Spirit Wardens
+The bronze-masked hunters who destroy rogue spirits. Also run the Harmony Grove Crematorium and the Enlightened Crematorium.
+
+	Leader:: Unknown
+	Hideout:: Unknown
+
+== The Whips
+Animals are in short supply in Lockport. Generally, they’re eaten before they can be put to much work. While the Whips may have once used animals to power their carriages, they now use Hulls almost exclusively. Supplied with soul-powered Machines by an very quiet organization they will not speak of, the Whips are a useful network for gossip as well as transportation.
+
+	Leader:: Basra Dell
+	Hideout:: Dell Livery Yard, Throwin
+
+== The White Hand:
+A charity and pseudo-religion said to be a champion of the poor. Unlike the Glorious Damned, they do not engage in aggressive action to help, but they do scatter largess.
+	
+	Leader:: Priestess Roetha Haige
+	Hideout:: The White Cathedral, The Ivory Tower District
