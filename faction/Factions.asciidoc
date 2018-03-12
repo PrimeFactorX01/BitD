@@ -56,7 +56,7 @@ Founded by an exile from Doskvol, the Cyphers are the messenger guild of the cit
 	Leader:: Keen the Eye
 	Hideout:: Strassut Hill Bookshop, Throwin
 
-== The Disapeared
+== The Disappeared
 With its workforce largely composed of prisoners and the indentured, Lockport was bound to spawn a gang of the ones that got away. The Disapeared are entirely former prisoners, or those who were forced into Refinery and Manufactory work against their will. They use no names, and are known only to each other.
 
 	Leader:: Giantkiller
@@ -139,8 +139,8 @@ An association of spirits who have not gone feral with the passage of time.
 == Sparkwrights
 The engineers who maintain the lightning barriers. Also pioneers of new technology, often indulging in dangerous research.
 
-	Leader::
-	\\
+Leader::
+//
 
 	Headquarters:: Pyne Building, Vyoss Institute for Constructive Electroplasmetics
 

@@ -36,7 +36,7 @@ Right at the edges of the city’s habitable land, the Fringe Marches are only j
 
 === Locations
 Camp Leviathan::
-                (The largest permanent camp of the Imperial Military.)
+                (The largest permanent camp of the link:Factions#imperial-military[Imperial Military].)
 
 
 == The Ivory Tower District
@@ -46,11 +46,11 @@ Skovlanders in general, and Lockportians in specific have a strange relationship
 The Cathedral::
                 (Church of Ecstasy of the Flesh)
 The Wheel of the Lady::
-(Part gambling house, part place of worship. Headquarters of the Gloriously Damned)
+(Part gambling house, part place of worship. Headquarters of link:Factions#the-glorious-damned[the Gloriously Damned])
 Goddess’ Bones Chapel::
-(Devoted to the Goddess Moirai, the Lady of Luck. Headquarters of the Godsent of the Lady’s Ordination)
+(Devoted to the Goddess Moirai, the Lady of Luck. Headquarters of the link:Factions#the-godsent-of-the-ladys-ordination[Godsent of the Lady’s Ordination])
 The White Cathedral::
-(A very large, and very plain house of worship. Headquarters of The White Hand.)
+(A very large, and very plain house of worship. Headquarters of link:Factions#the-white-hand[The White Hand].)
 
 
 == Meadowlands
@@ -78,7 +78,7 @@ Goodsmith Displacement Home::
  Houndsbeat::
 (Prison. Sandwiched between The Reek and the ocean)
 Bronze Spike Railyard::
-                (Headquarters to the Railjacks)
+                (Headquarters to the link:Factions#railjacks[Railjacks])
 
 
 
@@ -90,19 +90,19 @@ Optimistically named by the sailors who found it, Sanctuary Harbor is a sheltere
 
 === Locations
 The Undertow::
-(Lower Sanctuary, owned by Smiling Myre)
+(Lower Sanctuary, owned by link:NPC-List#smiling-myre[Smiling Myre])
 A sugarhouse that is safe mostly because it’s difficult to find. Dug into the bluff at the very edge of the Harbor, entering requires wading through several feet of brackish water during the wrong tides, but the place itself is unexpectedly clean and dry. It consists of a central barroom, and several side rooms where many vices can be indulged with a range of privacy options.
 The Quarry::
                 (Lower Sanctuary)
                 Pit fighting with bare knuckles in the mud.
 The Bayonet::
                 (Upper Sanctuary)
-                (A drinking den with a very bad reputation. Headquarters of the Greycoats.)
+                (A drinking den with a very bad reputation. Headquarters of the link:Factions#greycoats[Greycoats].)
 The Slabyard::
                 (Lower Sanctuary)
-                (A pub that only serves true Skovlanders. Headquarters of the Grinders)
+                (A pub that only serves true Skovlanders. Headquarters of the link:Factions#grinders[Grinders])
 The Leviathan’s Heart::
-                (Yet another pub. Headquarters of the Rats)
+                (Yet another pub. Headquarters of the link:Factions#rats[Rats])
 
 
 
@@ -114,7 +114,7 @@ A small district, filled entirely with governmental buildings and offices. The p
 Harmony Grove Crematorium::
 //
 Imperial Yard::
-                (Main City Watch House)
+                (Main link:Factions#the-city-watch[City Watch] House)
 
 
 == Throwin
@@ -122,9 +122,9 @@ The open-air markets of Throwin run ‘round the clock. When one barrow shuts do
 
 === Locations
 Dell Livery Yard::
-(No longer home to animals. Houses almost entirely Hulls. Shockingly well defended. Headquarters for the Whips.)
+(No longer home to animals. Houses almost entirely Hulls. Shockingly well defended. Headquarters for link:Factions#the-whips[the Whips].)
 Strassut Hill Bookshop::
-                (Headquarters to the Cyphers)
+                (Headquarters to the link:Factions#cyphers[Cyphers])
 
 
 == Velvet Bridge
@@ -134,13 +134,13 @@ Every city has a district where nothing is off limits. In Velvet Bridge, anythin
 The Figment Theater::
                 (Burlesque theater)
 The Scarlet Cincture::
-                (An artisanal brewery and headquarters of the Children of the Half-Moon)
+                (An artisanal brewery and headquarters of the link:Factions#children-of-the-half-moon[Children of the Half-Moon])
 The Lover’s Pride::
         (Enthusiastic affirmative consent brothel)
 The Compass Rose::
-                (A public house often frequented by students. Headquarters of the Mechanists.)
+                (A public house often frequented by students. Headquarters of the link:Factions#mechanists[Mechanists].)
 Short Ash Street::
-                (Largely shops of luxury goods. Current headquarters of the Scribblers)
+                (Largely shops of luxury goods. Current headquarters of the link:Factions#scribblers[Scribblers])
 
 
 == Vyoss Institute for Constructive Electroplasmetics
@@ -150,7 +150,7 @@ Originally a small and neglected “school” for inconvenient spare children, V
 The Enlightened Crematorium::
 //
 Pyne Building::
-                (Fulmination Studies. Headquarters of the Sparkwrights)
+                (Fulmination Studies. Headquarters of the link:Factions#sparkwrights[Sparkwrights])
 
 
 == Waterside Park
@@ -162,7 +162,7 @@ Limpfoot Dog Track::
 The Gymnasium::
 (Pit fighting with the veneer of trained athletics. It’s often more deadly for the fighters to compete here than the Quarry, but the payouts are much better.)
 The Tranquility Teahouse::
-                (Refined and discreet. Headquarters of the Mourner’s Guild)
+                (Refined and discreet. Headquarters of the link:#the-mourners-guild[Mourner’s Guild])
 
 
 
