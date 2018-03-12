@@ -13,7 +13,7 @@ Though the Bluecoats will deny it, there are a few of them that seek the good of
 == The Broken Thumbs
 An oddly supportive network of trainers, leeches, mentors, and active fighters, the Broken Thumbs are composed of current and former Pit Fighters. Though the Champion Conglomerate officially approves of their activities, unofficially, they’ve been trying to disband them for years, because the Thumbs make fighters less dependant on the conglomerate.
 
-	Leader:: Harker
+	Leader:: link:NPC-List#harker[Harker]
 	Headquarters:: The Ringer’s Widow, Lower Sanctuary
 
 == The Champion Conglomerate
@@ -158,6 +158,6 @@ Animals are in short supply in Lockport. Generally, they’re eaten before they 
 
 == The White Hand:
 A charity and pseudo-religion said to be a champion of the poor. Unlike the Glorious Damned, they do not engage in aggressive action to help, but they do scatter largess.
-	
+
 	Leader:: Priestess Roetha Haige
 	Hideout:: The White Cathedral, The Ivory Tower District
