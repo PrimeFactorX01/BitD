@@ -5,7 +5,7 @@
 toc::[]
 
 == Map
-image::map.png[]
+image::https://github.com/PrimeFactorX01/BitD/blob/master/location/map.png[]
 
 == Dallyhall
 The pure, clean, well-lit homes of the upper classes are in this district.
