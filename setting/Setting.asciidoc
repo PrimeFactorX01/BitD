@@ -1,4 +1,7 @@
 = Politics and Setting
+:showtitle!:
+
+toc::[]
 
 == Lockport:
 [abstract]
@@ -17,7 +20,7 @@ Now aware of the favor it has been granted, Lockport’s Refineries and Manufact
 Many of Lockport’s citizens fled during the war, risking the dangers of the Sea to shelter in the security of Doskvol’s open arms. Now, they are slowly returning, but Lockport has suffered a shortage of labor. To remedy that, the Ministry of Preservation is importing able bodied workers owing a debt to the Empire. While the citizenry of Lockport might object, they have a poor understanding of exactly how necessary this is to continue to support the reclamation of the city.
 
 
-= The Six Families and the Council Accords
+== The Six Families and the Council Accords
 Though Lockport is once again firmly in the hands of the Immortal Emperor, may we be worthy of his Sunlight, as the flashpoint for the Unity War, it has seen more than its share of upheaval. Since the end of the war two years ago, the city has managed to begin to pick up the pieces of self government. Last year, by decree of the Emperor, may we be worthy of his Sunlight, it was once again granted limited self-governance.
 
 Being denied a single leader, Lockport’s preeminent families have created a Council, with one member chosen from each of the Six. The Council is guided by the so-called Council Accords, formalized, legal agreements delineating each family’s scope of power, and creating a detant of influence among them.
@@ -34,7 +37,7 @@ Some, mainly those gangs who grasp for pride and a sense of identity feel strong
 
 The Bosses however, are often the unsung players in the dance of the Families. Since most cross the lines of territory, involving themselves in a variety of spheres, they are seldom claimed by one Family. Their gangs might be assigned to one, but the Boss herself is the player that can cross the walls, and build the webs.
 
-== The Six Families:
+=== The Six Families:
 Irnen::
 Sphere: Power
 
