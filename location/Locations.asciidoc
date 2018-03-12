@@ -1,0 +1,156 @@
+= Lockport Districts:
+:showtitle!:
+:toc: preamble
+
+
+== Dallyhall
+The pure, clean, well-lit homes of the upper classes are in this district.
+
+
+== Demontail
+Once the home of Lockport’s few productive farms, Demontail had the bad luck to be down river from the Leviathan Refineries. Forty years of runoff and pollution have turn the once fertile soil into a morass of corruption and mutation. Some brave families still struggle to reclaim the ground, but most have abandoned the district.
+
+=== Locations
+* Skelkallen Farm
+
+
+== Dog Ribs
+A mismatched community of rickety shacks on stilts, houseboats, and floating platforms, Dog Ribs lies in the harbor, just inside the lightning wall. It’s an excellent place to find things too questionable even for Velvet Bridge. It is reached either by boat, or a long, swaying walkway, sometimes occupied by multiple “toll takers” demanding payment for passage.
+
+== Locations
+* Harbor Lord Eel Races
+
+
+== Fogcleft
+Slightly dirtier, and much less well-lit than Dallyhall, Fogcleft is home to the middle class of Lockport.
+
+
+== The Fringe Marches
+Right at the edges of the city’s habitable land, the Fringe Marches are only just habitable, by most people’s standards. The rough individuals who live there think of themselves as the true Skovlanders. People who have not been softened by distance from the deathlands, but instead carry on the historic traditions of the Homeland. Marchers are almost their own race entirely, one that prides itself on its courage, which most would call bullheaded foolhardiness.
+
+=== Locations
+Camp Leviathan::
+                (The largest permanent camp of the Imperial Military.)
+
+
+== The Ivory Tower District
+Skovlanders in general, and Lockportians in specific have a strange relationship with religion. They like to know it’s there in a pinch, but prefer it stays rather far away. The Ivory Tower District is home to all the overt trappings of faith, organized and otherwise.
+
+=== Locations
+The Cathedral::
+                (Church of Ecstasy of the Flesh)
+The Wheel of the Lady::
+(Part gambling house, part place of worship. Headquarters of the Gloriously Damned)
+Goddess’ Bones Chapel::
+(Devoted to the Goddess Moirai, the Lady of Luck. Headquarters of the Godsent of the Lady’s Ordination)
+The White Cathedral::
+(A very large, and very plain house of worship. Headquarters of The White Hand.)
+
+
+== Meadowlands
+Filled with manufactories and processing plants of all kids, Meadowlands’ name comes from its proximity to The Reek. Compared to the land surrounding the Refinery, even the effluvia of slaughterhouses is a breath of fresh air. This district houses the majority of the heavy production in the city.
+
+=== Locations
+* The White Box Factory
+* Ajay Fabric Mill
+* Penitent Prosperity Workhouse
+* Open Arms Orphanage
+
+
+== The Reek
+Home to the Goodsmith Leviathan Refinery, The Reek lives up to its name. No one comes here unless they have to. Unfortunately, for the many convict-employees and debt bondsman, they have to. The Refinery occupies the majority of the space, with the stacked wooden tenements of the employees built anywhere there is room.
+
+=== Locations
+* Goodsmith Refinery
+* Goodsmith Displacement Home
+ Houndsbeat::
+(Prison. Sandwiched between The Reek and the ocean)
+Bronze Spike Railyard::
+                (Headquarters to the Railjacks)
+
+
+
+
+== Sanctuary
+Optimistically named by the sailors who found it, Sanctuary Harbor is a sheltered inlet in the Void Sea. The Harbor is both wide and deep, making it an excellent area for loading and unloading ships, and thus Lockport the logical choice for the Leviathan Refinery. Sanctuary Harbor may have given succor to the mariners who discovered it, but the Sanctuary Docks, divided into both upper and lower portions by the Crowlin River, offer no such comfort to the unwary traveller. It’s well known that walking through Sanctuary after dark is practically an invitation to lose your money, if not your life.
+
+
+
+=== Locations
+* The Undertow
+(Lower Sanctuary, owned by Smiling Myre)
+A sugarhouse that is safe mostly because it’s difficult to find. Dug into the bluff at the very edge of the Harbor, entering requires wading through several feet of brackish water during the wrong tides, but the place itself is unexpectedly clean and dry. It consists of a central barroom, and several side rooms where many vices can be indulged with a range of privacy options.
+* The Quarry
+                (Lower Sanctuary)
+                Pit fighting with bare knuckles in the mud.
+* The Bayonet
+                (Upper Sanctuary)
+                (A drinking den with a very bad reputation. Headquarters of the Greycoats.)
+* The Slabyard
+                (Lower Sanctuary)
+                (A pub that only serves true Skovlanders. Headquarters of the Grinders)
+* The Leviathan’s Heart
+                (Yet another pub. Headquarters of the Rats)
+
+
+
+
+== Talking Trees
+A small district, filled entirely with governmental buildings and offices. The primary Watch house is here, as well as the City Council seat. It is named for the small, and very well tended grove of trees that has managed to survive there. It is said that the trees are kept alive by the ghosts of people sacrificed for them. But no intelligent person really believes that.
+
+=== Locations
+* Harmony Grove Crematorium
+* Imperial Yard
+                (Main City Watch House)
+
+
+== Throwin
+The open-air markets of Throwin run ‘round the clock. When one barrow shuts down, another immediately fills its place. The market itself has a myriad of alleys and byways, each catering to a different type of product. New or used clothing, mushrooms, weaponry, poisons, all can be found in different parts of Throwin.
+
+=== Locations
+* Dell Livery Yard
+(No longer home to animals. Houses almost entirely Hulls. Shockingly well defended. Headquarters for the Whips.)
+* Strassut Hill Bookshop
+                (Headquarters to the Cyphers)
+
+
+== Velvet Bridge
+Every city has a district where nothing is off limits. In Velvet Bridge, anything can be had, for the right price. Though immoral acts are conducted nearly openly, the district is reasonably safe. All of the various Gangs and Crews that have a presence there find it advantageous for their clients (and marks) to be able to approach without fear for their life. Yes, it’s possible to hire an assassin there, but you will likely get to and from that meeting unharmed. Unless, of course, someone’s been paid more highly to look the other way when you’re assaulted.
+
+=== Locations
+* The Figment Theater
+                (Burlesque theater)
+* The Scarlet Cincture
+                (An artisanal brewery and headquarters of the Children of the Half-Moon)
+* The Lover’s Pride
+        (Enthusiastic affirmative consent brothel)
+* The Compass Rose
+                (A public house often frequented by students. Headquarters of the Mechanists.)
+* Short Ash Street
+                (Largely shops of luxury goods. Current headquarters of the Scribblers)
+
+
+== Vyoss Institute for Constructive Electroplasmetics
+Originally a small and neglected “school” for inconvenient spare children, Vyoss Institute has expanded into the preeminent university for electroplasmic studies. It grew even during the Unity War by remaining largely apart, gladly offering its discoveries to whichever side happened to be in power at a given moment. ICE scholars come from all walks of life, with as many scholarship students as fee-paying pupils, and they consider themselves apart from, and above, the majority of Lockport life.
+
+=== Locations
+* The Enlightened Crematorium
+* Pyne Building
+                (Fulmination Studies. Headquarters of the Sparkwrights)
+
+
+== Waterside Park
+Nestled in a curve of the Crowlin River, far up-current from the Goodsmith Refinery, Waterside Park is where the rich go to shop and play. With the Opera House, several Theaters, the Avenue, a promenade of artisanal shops, as well as round the clock patrols of highly attentive Bluecoats, one can enjoy a day out and come home with their purse intact. The poor, and really, even the middle class, stand out here, and they are typically rousted with undue force.
+
+=== Locations
+* Limpfoot Dog Track
+* The Gymnasium
+(Pit fighting with the veneer of trained athletics. It’s often more deadly for the fighters to compete here than the Quarry, but the payouts are much better.)
+* The Tranquility Teahouse
+                (Refined and discreet. Headquarters of the Mourner’s Guild)
+
+
+
+
+== West Fogcleft
+With people and buildings stacked on each other like cordwood, West Fogcleft is where the poor call home. About the fact that West Fogcleft is, in fact, to the east of Fogcleft, well, Skovlanders have a strange sense of humor.

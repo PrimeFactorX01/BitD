@@ -2,8 +2,8 @@ Welcome to the BitD wiki!
 
 * link:Factions[]
 * Player Characters
-** link:Monster[]
 ** link:Mockingbird[]
+** link:Monster[]
 ** link:Moose[]
 ** link:Mouse[]
 * link:non-player-characters[NPCs]
