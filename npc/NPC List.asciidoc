@@ -5,15 +5,15 @@
 toc::[]
 
 == Adric
-_(sweeper and dog’sbody at The Lover’s Pride)_
+_(sweeper and dog’sbody at link::Locations#velvet-bridge[The Lover’s Pride])_
 
 The 11 year old son of one of the Ladies, Adric does odd jobs, errands, and cleaning around the place. He knows the management will keep him safe from any advances, and the patrons are aware that they’ll be admonished most sternly (and violently) if they try anything with him. Despite his rather odd upbringing, he is a relatively normal young boy.
 
 == Broadwell
-_(screw at Houndsbeat)_
+_(screw at link:Locations#the-reek[Houndsbeat])_
 
 == Carah
-_(Lady at The Lover’s Pride)_
+_(Lady at link:Locations#velvet-bridge[The Lover’s Pride])_
 
 Girl next door type. Bubbly.
 
@@ -30,7 +30,7 @@ The fact that he was present for the founding of Doskvol is generally accepted f
 
 Count Silverbood does not hide his demonic nature. If anything, with finely tailored silver suits echoing the color of his eyes, he flaunts his in-humanity. If he were less wealthy, he wouldn’t get away with it, but with the financial and social resources to destroy most of the Six Families at his pleasure, people do not so much look the other way as actively invite him into their inner circles.
 
-Being such an intimate part of the fabric of the aristocracy means that the Count can completely disregard all its mores. He is often found in [downmarket slum] in the company of people the merely wealthy couldn’t be seen spitting on. He has some sort of association with Walker, the Boss of [gang], but people know better than to look at that too closely.
+Being such an intimate part of the fabric of the aristocracy means that the Count can completely disregard all its mores. He is often found in link:Locations#sanctuary[Sanctuary] in the company of people the merely wealthy couldn’t be seen spitting on. He has some sort of association with link:NPC-List#walker[Walker], the Boss of link:Factions#prodigals[Prodigals], but people know better than to look at that too closely.
 
 == Eckerd
 [abstract]
