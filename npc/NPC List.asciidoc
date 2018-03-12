@@ -30,7 +30,7 @@ The fact that he was present for the founding of Doskvol is generally accepted f
 
 Count Silverbood does not hide his demonic nature. If anything, with finely tailored silver suits echoing the color of his eyes, he flaunts his in-humanity. If he were less wealthy, he wouldn’t get away with it, but with the financial and social resources to destroy most of the Six Families at his pleasure, people do not so much look the other way as actively invite him into their inner circles.
 
-Being such an intimate part of the fabric of the aristocracy means that the Count can completely disregard all its mores. He is often found in link:Locations#sanctuary[Sanctuary] in the company of people the merely wealthy couldn’t be seen spitting on. He has some sort of association with link:NPC-List#walker[Walker], the Boss of link:Factions#prodigals[Prodigals], but people know better than to look at that too closely.
+Being such an intimate part of the fabric of the aristocracy means that the Count can completely disregard all its mores. He is often found in link:Locations#sanctuary[Sanctuary] in the company of people the merely wealthy couldn’t be seen spitting on. He has some sort of association with link:#walker[Walker], the Boss of link:Factions#prodigals[Prodigals], but people know better than to look at that too closely.
 
 == Eckerd
 [abstract]
@@ -205,7 +205,7 @@ While he doesn’t officially deal anything, if someone’s really hard up, he c
 --
 “Take it from me, Fate doesn't care most of the time.”
 --
-_(Boss of the [gang] and [location])_
+_(Boss of the Prodigals and most of Velvet Bridge)_
 
 Walker is a tall woman, with the body of someone who devotes most of her time to hard labor. It’s hard to see her as one of the most successful doxies of [location]. But either her customers were drawn to a form of whipcord over iron, a mind that could make connections most would overlook, or some combination of both, because she moved from working the streets, to a House, to her own House in a matter of months.
 
