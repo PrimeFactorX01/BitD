@@ -1,9 +1,10 @@
 = Politics and Setting
 :showtitle!:
+:toc:
 
 toc::[]
 
-== Lockport:
+== Lockport
 [abstract]
 --
 Our Refinery Powers the World
