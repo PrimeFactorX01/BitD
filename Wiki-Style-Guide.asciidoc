@@ -1,0 +1,49 @@
+= Style Guide
+:showtitle:
+:source-highlighter: rouge
+:icons: font
+
+
+* Use AsciiDoc as the edit mode
+* Include `:showtitle!:` in the header to avoid repeating the title.
+* If available, use a Character's current Super-name
+* If the character has a more commonly used name, add an AKA line after a blank line, after the header, with the name itself on its own line.
+This will be used to generate a separate line in the index.
+* Use Semantic Linefeeds
+ie: Linebreaks after each sentence.
+This assists in version control and editing.
+
+.Template
+[source, asciidoc]
+----
+= Character
+:showtitle!:
+
+AKA::
+Other Name
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+In hendrerit quis lacus a vehicula. In hac habitasse platea dictumst.
+Maecenas condimentum nulla leo, id ultricies diam euismod et. Praesent euismod molestie ligula vel volutpat.
+Praesent faucibus suscipit tempor.
+Vivamus vel rutrum nunc.
+
+== Overview
+
+Real Name::
+
+Super Name::
+
+Powers and Abilities::
+* One
+* Two
+
+== Biography
+=== Personality
+
+== Powers and Abilities
+
+== Relationships
+
+== In Their Own Words
+----

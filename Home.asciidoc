@@ -1,0 +1,12 @@
+Welcome to the BitD wiki!
+
+* link:Factions[]
+* Player Characters
+** link:Monster[]
+** link:Mockingbird[]
+** link:Moose[]
+** link:Mouse[]
+* link:non-player-characters[NPCs]
+* link:Locations[]
+* link:logs[Session Logs]
+* link:Wiki-Style-Guide[Style Guide]
