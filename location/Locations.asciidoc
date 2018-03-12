@@ -1,8 +1,8 @@
 = Lockport Districts:
 :showtitle!:
-:toc: preamble
+:toc:
 
-
+toc::[]
 == Dallyhall
 The pure, clean, well-lit homes of the upper classes are in this district.
 
