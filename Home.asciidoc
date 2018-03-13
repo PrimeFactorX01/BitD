@@ -1,4 +1,7 @@
-Welcome to the BitD wiki!
+Blades in the Dark Wiki
+
+NOTE: This is an attempt to mirror the source documents provided by the GM.
+In the event of a conflict, the original source document takes precedence.
 
 * link:Factions[]
 * Player Characters
